@@ -10,5 +10,5 @@ https://api.openlandmap.org/
 https://geo.wa.gov/datasets/bfade7c2303541108fa543ff96aaa536/explore
 
 ### API
-https://geo.wa.gov/datasets/bfade7c2303541108fa543ff96aaa536/api
+https://geo.wa.gov/datasets/bfade7c2303541108fa543ff96aaa536/api <br>
 https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm
