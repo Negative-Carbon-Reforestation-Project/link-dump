@@ -5,6 +5,9 @@
 ### API
 https://api.openlandmap.org/
 
+### OpenLandMap API Documentation
+https://api.openlandmap.org/query/__docs__/
+
 
 ## Washington Geospatial Open Data
 https://geo.wa.gov/datasets/bfade7c2303541108fa543ff96aaa536/explore
