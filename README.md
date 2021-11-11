@@ -35,3 +35,8 @@ https://cloud.google.com/automl
 https://openlayers.org/
 
 https://openlayers.org/en/latest/doc/quickstart.html
+https://github.com/openlayers/openlayers
+
+
+## GlobalForestWatch
+https://www.globalforestwatch.org/map/
