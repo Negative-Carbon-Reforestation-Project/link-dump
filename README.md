@@ -32,9 +32,8 @@ https://cloud.google.com/automl
 
 
 ## OpenLayers
-https://openlayers.org/
-
-https://openlayers.org/en/latest/doc/quickstart.html
+https://openlayers.org/<br>
+https://openlayers.org/en/latest/doc/quickstart.html<br>
 https://github.com/openlayers/openlayers
 
 
