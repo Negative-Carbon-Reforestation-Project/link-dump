@@ -39,3 +39,6 @@ https://github.com/openlayers/openlayers
 
 ## GlobalForestWatch
 https://www.globalforestwatch.org/map/
+
+# Geotif data collection
+https://zenodo.org/record/1447210
