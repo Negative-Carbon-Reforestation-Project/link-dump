@@ -42,3 +42,6 @@ https://www.globalforestwatch.org/map/
 
 # Geotif data collection
 https://zenodo.org/record/1447210
+
+# Rasterio Quickstart guide for opening .tif files in Python
+https://rasterio.readthedocs.io/en/latest/quickstart.html
