@@ -45,3 +45,7 @@ https://zenodo.org/record/1447210
 
 # Rasterio Quickstart guide for opening .tif files in Python
 https://rasterio.readthedocs.io/en/latest/quickstart.html
+
+# Forest Fires & Reforestation infodump
+https://surviving-wildfire.extension.org/reforesting-your-forestland-after-a-wildfire/
+
