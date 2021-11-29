@@ -49,3 +49,5 @@ https://rasterio.readthedocs.io/en/latest/quickstart.html
 # Forest Fires & Reforestation infodump
 https://surviving-wildfire.extension.org/reforesting-your-forestland-after-a-wildfire/
 
+# National Interagency Fire Center
+https://data-nifc.opendata.arcgis.com/
